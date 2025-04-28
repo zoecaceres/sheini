@@ -1,0 +1,26 @@
+h1{
+    color: aqua;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color: blue;
+}
+h2{
+    font-family: 'Trebuchet MS';
+    color: hsl(309, 66%, 49%);
+}
+h3{
+    color: gray;
+    font-family: 'Courier New';
+}
+h4{
+    color: palevioletred;
+    }
+    th{
+        font-family: serif;
+    }
+    h5{
+        color: brown;
+    }
+  
